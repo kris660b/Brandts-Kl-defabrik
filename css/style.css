@@ -1,0 +1,54 @@
+/** Custom Stylesheet for Brandts Template **/
+#header{
+    background-image:url('http://brandtsklaedefabrik.dk/wp-content/uploads/2015/12/hero-cuckoos.jpg');
+    width: auto;
+    background-size: cover;
+    height: 200px;
+}
+button{
+    border-radius: 50%;
+    margin-top: 1%;
+}
+.name{
+    margin-left: 1%;
+    margin-top: 1%;
+    font-family: 'Steagal';
+}
+.name img{
+    margin-right: 1%;
+}
+h2{
+    font-size: 2.5rem;
+}
+li{
+    list-style: none;
+    font-family: 'Open Sans';
+    font-weight: bold;
+}
+#line{
+    background-color: #FFC20E;
+    height: 10px;
+}
+#content{
+    background-color: #F8CBC4;
+    height:160px;
+}
+p{
+    color:white;
+    font-family: 'Open Sans';
+    font-size: 1rem;
+}
+#banner{
+    background-image: url('http://via.placeholder.com/350x150');
+    height: 150px;
+}
+#facebook{
+    margin-right: 5%;
+}
+#maps{
+    margin-right: 5%;
+}
+footer{
+    margin-top:5%;
+    margin-bottom: 5%;
+}
